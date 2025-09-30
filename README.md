@@ -9,13 +9,6 @@ Este é o **meu primeiro procjeto de portfólio em Python**, desenvolvido com os
 O procjeto tem como objetivo praticar a manipulação de dados e aplicar técnicas de **Exploração de Dados (EDA)** para analisar o catálogo da Netflix.  
 A ideia central é identificar padrões em filmes e séries que possam orientar **decisões estratégicas**, respondendo a perguntas de negócio relacionadas a **custos de produção, diversidade de catálogo e preferências de audiência**.  
 
-⚠️ **Nota:** Todo o procjeto foi organizado dentro da pasta **`.venv`**, que inclui:  
-- Dataset em `Data/`  
-- Gráficos em `outputs/Charts/`  
-- Tabelas em `outputs/Tables/`  
-- Código principal em `main.py`  
-- Documentação em `README.md`  
-
 ---
 
 ## 🎯 Objetivos
@@ -34,11 +27,11 @@ A ideia central é identificar padrões em filmes e séries que possam orientar 
   - `matplotlib` → visualizações  
   - `numpy` → cálculos e manipulação numérica  
 - **Organização (dentro da `.venv`):**  
-  - `.venv/Data/` → dataset bruto e limpo  
-  - `.venv/outputs/Charts/` → gráficos  
-  - `.venv/outputs/Tables/` → tabelas  
-  - `.venv/main.py` → script principal  
-  - `.venv/README.md` → documentação  
+  - `Data/` → dataset bruto e limpo  
+  - `outputs/Charts/` → gráficos  
+  - `outputs/Tables/` → tabelas  
+  - `main.py` → script principal  
+  - `README.md` → documentação  
 
 ---
 
