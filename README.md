@@ -6,7 +6,7 @@
 ## 📖 Introdução
 Este é o **meu primeiro procjeto de portfólio em Python**, desenvolvido com os conhecimentos adquiridos no curso de **Manipulação de Dados com Python (Pandas)** na plataforma **DataCamp**.  
 
-O procjeto tem como objetivo praticar a manipulação de dados e aplicar técnicas de **Exploração de Dados (EDA)** para analisar o catálogo da Netflix.  
+O projecto tem como objetivo praticar a manipulação de dados e aplicar técnicas de **Exploração de Dados (EDA)** para analisar o catálogo da Netflix.  
 A ideia central é identificar padrões em filmes e séries que possam orientar **decisões estratégicas**, respondendo a perguntas de negócio relacionadas a **custos de produção, diversidade de catálogo e preferências de audiência**.  
 
 ---
